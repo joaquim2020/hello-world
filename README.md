@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello
+
+This is my space to initiate into Github Technology
